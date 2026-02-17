@@ -1,0 +1,20 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+display: block;
+}
+
+
+@media (min-width: 720px) {
+nav {
+    display: inline;
+    }
+}
+
+@media (min-width: 1080px) {
+    main {
+        max-width: 900px;
+    }
+}
