@@ -18,3 +18,9 @@ nav {
         max-width: 900px;
     }
 }
+
+@media (min-width: 1240px) {
+    body {
+        font-size: 20px;
+    }
+}
